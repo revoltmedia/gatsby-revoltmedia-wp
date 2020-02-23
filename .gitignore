@@ -70,3 +70,6 @@ wp-config.php
 init_db
 db
 public/wp-content/uploads
+
+.DS_Store
+Thumbs.db
