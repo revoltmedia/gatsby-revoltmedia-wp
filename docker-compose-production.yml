@@ -1,5 +1,5 @@
 version: "3.5"
-
+  �
 networks:
   default:
     external:
@@ -67,6 +67,7 @@ services:
     entrypoint: wp
     labels:
       - "traefik.enable=false"
+
 
   adminer:
     depends_on:
