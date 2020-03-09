@@ -15,3 +15,5 @@ require ('post-types/revoltmedia-carousel.php');
 require ('post-types/revoltmedia-carousel-fields.php');
 require ('post-types/revoltmedia-case-study.php');
 require ('post-types/revoltmedia-case-study-fields.php');
+require ('post-types/revoltmedia-service.php');
+require ('post-types/revoltmedia-service-fields.php');
